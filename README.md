@@ -1,2 +1,2 @@
-# probability-theory
-Homeworks on probability theory course
+# Probability Theory
+[Notes](/Notes.pdf)
